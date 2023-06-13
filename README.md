@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 To develop this challenge, I had discussed resolutions with classmate for better understand of both. Also during office hours, the TA Bill went over the soluction to explain some topics that wasn't clear.
-The last portion of my code was shared by the TA during office hours with an detailed explanation to help with learning process.
+The last portion of my code was shared by the TA during office hours with an detailed explanation to help with learning process. Also, the function "Case" wasn't covered during class, but TA during office hours shared code and explained the difference between the function "if" and "case" and how to apply.
 
 I also went over internet websites focused in VBA for better undertandind of some topics.
 https://www.wallstreetmojo.com/vba-max/
